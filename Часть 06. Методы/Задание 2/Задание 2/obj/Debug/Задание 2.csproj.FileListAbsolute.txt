@@ -1,0 +1,13 @@
+C:/Users/Microalab/source/repos/Задание 2/Задание 2/obj/Debug/Задание 2.csproj.CoreCompileInputs.cache
+C:/Users/Microalab/source/repos/Задание 2/Задание 2/bin/Debug/Задание 2.exe.config
+C:/Users/Microalab/source/repos/Задание 2/Задание 2/bin/Debug/Задание 2.exe
+C:/Users/Microalab/source/repos/Задание 2/Задание 2/bin/Debug/Задание 2.pdb
+C:/Users/Microalab/source/repos/Задание 2/Задание 2/obj/Debug/Задание 2.exe
+C:/Users/Microalab/source/repos/Задание 2/Задание 2/obj/Debug/Задание 2.pdb
+C:/Users/Microalab/source/repos/Задание 2/Задание 2/obj/Debug/Задание 2.csprojResolveAssemblyReference.cache
+/home/gagareg/Documents/Git/c-/Часть 06. Методы/Задание 2/Задание 2/bin/Debug/Задание 2.exe.config
+/home/gagareg/Documents/Git/c-/Часть 06. Методы/Задание 2/Задание 2/bin/Debug/Задание 2.exe
+/home/gagareg/Documents/Git/c-/Часть 06. Методы/Задание 2/Задание 2/bin/Debug/Задание 2.pdb
+/home/gagareg/Documents/Git/c-/Часть 06. Методы/Задание 2/Задание 2/obj/Debug/Задание 2.csprojAssemblyReference.cache
+/home/gagareg/Documents/Git/c-/Часть 06. Методы/Задание 2/Задание 2/obj/Debug/Задание 2.exe
+/home/gagareg/Documents/Git/c-/Часть 06. Методы/Задание 2/Задание 2/obj/Debug/Задание 2.pdb
